@@ -12,7 +12,7 @@ Is there a physiological "winning profile"?
 
 **Tools**
 
-Language: Python 3.x
+Language: Python 3.10
 Libraries: pandas, matplotlib, seaborn, unicodedata
 Platform: Google Colab
 
