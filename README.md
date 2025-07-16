@@ -1,4 +1,4 @@
-How to Win the Tour de France - A Data Science Project
+**How to Win the Tour de France - A Data Science Project**
 
 **Project Overview**
 
