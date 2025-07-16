@@ -1,0 +1,20 @@
+Feature,Definition
+edition,Tour de France edition
+start_date,Start date of the Tour
+winner_name,Winner of the Tour
+winner_team,Winner team of the Tour
+distance,Tour de France distance
+time_overall,Time that the winner took to complete the Tour
+time_margin,Time margin between the winner and the runner-up
+stage_wins,Stage wins of the winner of the Tour
+stages_led,Stages led by the winner of the Tour
+height,Winner's height
+weight,Winner's weight
+age,Winner's age
+born,Winner's date of birth
+died,Winner's date of death
+full_name,Winner's full name
+nickname,Winner's nickname
+birth_town,Winner's birth town
+birth_country,Winner's birth country
+nationality,Winner's nationality
